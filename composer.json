@@ -1,0 +1,13 @@
+{
+    "name": "ruben/bruggen",
+    "type": "project",
+    "require": {
+        "smalot/pdfparser": "^0.14.0"
+    },
+    "authors": [
+        {
+            "name": "Ruben van Erk",
+            "email": "ruben@rubenvanerk.nl"
+        }
+    ]
+}
